@@ -1,0 +1,36 @@
+body{
+    background-color: #ff8fa3;
+}
+h1{
+    text-align: center;
+    color: #c71f37;
+}
+#form1{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 37vh;
+    left: 25vh;
+    height: 8vh;
+    width: 80vw;
+}
+#inputtxt{
+    width: 70vw;
+}
+#Lists{
+    position: absolute;
+    top: 45vh;
+    height: 50vh;
+    width: 100vw;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: #a4133c;
+}
+#items{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ff4d6d;
+}
+#itemsText{
+    color: white;
+}
